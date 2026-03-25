@@ -6,7 +6,7 @@ public class coordenada
     public int y;
 
     public  int X { get{return x; } }
-    public  int Y { get{return x; } }
+    public  int Y { get{return y; } }
 
     public coordenada(int x, int y)
     {
