@@ -1,0 +1,14 @@
+/home/magalhaes/Archives/Snake/Snake/bin/Debug/net10.0/Snake
+/home/magalhaes/Archives/Snake/Snake/bin/Debug/net10.0/Snake.deps.json
+/home/magalhaes/Archives/Snake/Snake/bin/Debug/net10.0/Snake.runtimeconfig.json
+/home/magalhaes/Archives/Snake/Snake/bin/Debug/net10.0/Snake.dll
+/home/magalhaes/Archives/Snake/Snake/bin/Debug/net10.0/Snake.pdb
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/Snake.AssemblyInfoInputs.cache
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/Snake.AssemblyInfo.cs
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/Snake.csproj.CoreCompileInputs.cache
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/Snake.dll
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/refint/Snake.dll
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/Snake.pdb
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/Snake.genruntimeconfig.cache
+/home/magalhaes/Archives/Snake/Snake/obj/Debug/net10.0/ref/Snake.dll
