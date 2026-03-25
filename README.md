@@ -39,4 +39,15 @@ O jogo utiliza um loop secundário para controlar o tempo de cada quadro (`frame
 
 #### Detecção de Colisão e Reset
 Existem duas verificações críticas de colisão:
-1.  **Objetivo**: Se a
+1.  **Objetivo**: Se a cabeça da serpente ocupar a mesma coordenada que a maçã, o score e o tamanho da cauda aumentam, e uma nova maçã é gerada aleatoriamente.
+2.  **Derrota**: Se a cabeça atingir as bordas do grid ou se a lista `snakePosHistory` já contiver a coordenada da cabeça (colisão própria), as variáveis são resetadas para o estado inicial.
+
+---
+
+## Tecnologias e Conceitos Aplicados
+* **Encapsulamento**: Uso de classes e propriedades para proteger o estado das coordenadas.
+* **Coleções Genéricas**: Uso de `List<T>` para gerenciar o corpo dinâmico da serpente.
+* **Randomização**: Uso da classe `Random` para posicionamento dinâmico de objetivos.
+* **Sobrescrita de Métodos (Override)**: Customização do comportamento de igualdade de objetos.
+
+---
